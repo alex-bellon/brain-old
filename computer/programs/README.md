@@ -1,0 +1,30 @@
+# programs
+
+## Directories
+
+## Files
+- [atom](atom.md)
+- [browser](browser.md)
+- [burp-suite](burp-suite.md)
+- [display-server](display-server.md)
+- [docker](docker.md)
+- [gdb](gdb.md)
+- [git](git.md)
+- [iptables](iptables.md)
+- [jq](jq.md)
+- [kubernetes](kubernetes.md)
+- [metasploit](metasploit.md)
+- [nginx](nginx.md)
+- [nmap](nmap.md)
+- [obsidian](obsidian.md)
+- [obs](obs.md)
+- [README](README.md)
+- [sed](sed.md)
+- [tcpdump](tcpdump.md)
+- [terminal](terminal.md)
+- [vim](vim.md)
+- [window-manager](window-manager.md)
+- [wireshark](wireshark.md)
+- [zathura](zathura.md)
+- [zeek](zeek.md)
+- [zotero](zotero.md)

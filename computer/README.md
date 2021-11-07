@@ -1,0 +1,32 @@
+# computer
+
+## Directories
+- [devices](devices/)
+- [documents](documents/)
+- [operating-systems](operating-systems/)
+- [programming-languages](programming-languages/)
+- [programs](programs/)
+- [security](security/)
+
+## Files
+- [accessibility](accessibility.md)
+- [cloud-services](cloud-services.md)
+- [data-structures](data-structures.md)
+- [design](design.md)
+- [distributed](distributed.md)
+- [ethics](ethics.md)
+- [gaming](gaming.md)
+- [general](general.md)
+- [generative-art](generative-art.md)
+- [hardware](hardware.md)
+- [hardware-setup](hardware-setup.md)
+- [homelab](homelab.md)
+- [networking](networking.md)
+- [open-source-free-software](open-source-free-software.md)
+- [operating-systems](operating-systems.md)
+- [programming-language](programming-language.md)
+- [programming](programming.md)
+- [README](README.md)
+- [ricing](ricing.md)
+- [ssh](ssh.md)
+- [web-dev](web-dev.md)
