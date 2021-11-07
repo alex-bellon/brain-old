@@ -1,0 +1,16 @@
+# Miscellaneous
+- [All IKEA Catalogs](https://ikeamuseum.com/sv/ikea-kataloger/)
+- [Anarchivism](https://anarchivism.org/w/Main_Page) - Retro techno-culture folklore and archaeology. Preserving books, zines, video, software, fringeware, cyberpunk, ribofunk, hacker culture, and other oddware.
+- [CMU Puzzlehunt](https://puzzlehunt.club.cc.cmu.edu/)
+- [Columbia course files](http://www.columbia.edu/itc/)
+- [Does my site need HTTPS](https://doesmysiteneedhttps.com/)
+- [FlowCV](https://flowcv.io/) - Really fancy resume builder with nice templates
+- [General knowledge norms: Updated and expanded from the Nelson and Narens](https://ehsankia.com/quiz/)
+- [Hours by fiveable](https://hours.zone/) - Online study group dashboard
+- [Household cyclopedia](https://mspong.org/household_cyclopedia/download.html) - The Household Cyclopedia is a book of general knowledge printed in 1881. It was scanned and reproduced as a website by me, Matthew Spong, in 1998. See below for more notes on the history of this site.
+- [King of the Hill animation rules](https://imgur.com/a/PiJLk)
+- [LEGO Instructions PDFs](https://www.lego.com/en-us/service/buildinginstructions/)
+- [Lemons Rally](https://24hoursoflemons.com/lemons-rally/)
+- [Mathematical Analysis of a good Assassins](https://zarvox.org/assassins/math.html)
+- [No Hello](https://nohello.net/)
+- [Paddy Not Patty](https://www.paddynotpatty.com/)

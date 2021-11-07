@@ -1,0 +1,166 @@
+# Ricing
+
+## Articles
+- [Imprisoning dotfiles in a fake HOME](https://superluserdo.xyz/blog/posts/2020/03/28/fake-home-prison/)
+- [Managing dotfiles with GNU `stow`](https://alexpearce.me/2016/02/managing-dotfiles-with-stow/)
+
+## Apps
+### Atom
+- [Theming atom with pywal](https://github.com/fcamilleri22/dots/tree/master/atom/.atom/packages/frank-syntax/styles)
+
+### Bootscreen
+- [Arch Wireframe Theme for Plymouth](https://github.com/dreamsmasher/Arch-Wireframe-Plymouth-Theme)
+- [rEFInd Catalina](https://github.com/mireq/rEFInd-Catalina) - Catalina theme ported from clover to rEFInd
+
+### Discord
+- [Glasscord](https://github.com/AryToNeX/Glasscord) - make Discord glassy/transparent
+- [pywal discord](https://github.com/FilipLitwora/pywal-discord)
+- [wal-discord](https://github.com/guglicap/wal-discord) - Generate Discord css from pywal colors
+
+### Firefox
+- [One-line userchrome.css](https://www.reddit.com/r/FirefoxCSS/comments/a1rj3v/my_oneliner_setup_code_in_comments/)
+- [One-line + Homescreen](https://www.reddit.com/r/FirefoxCSS/comments/8t8y0a/screenshot_my_take_on_one_line_firefox_homescreen/)
+- [Responsive Firefox](https://www.reddit.com/r/FirefoxCSS/comments/8j0tek/responsive_minimal_firefox/)
+- [Out of the way header bar](https://pastebin.com/upTANapV)
+- [Beautiful Material Minimal theme](https:/https://github.com/ntcarlson/dotfiles/tree/delta/config/rofi/www.reddit.com/r/unixporn/comments/ebchep/oc_i_created_this_userchrome_configuration_to_be/)
+- [Minimal dynamic setup](https://www.reddit.com/r/unixporn/comments/glbl4v/oc_its_not_normal_to_want_my_firefox_to_sit_on_my/)
+  - [Repo](https://github.com/akshat46/FlyingFox)
+- [pywalfox](https://github.com/Frewacom/pywalfox) - Customize Firefox with pywal colors
+- [minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox) - A minimal, yet functional Firefox userChrome configuration.
+
+### Gimp
+- [Gimp CC Themes](https://github.com/draekko/gimp-cc-themes) - Photoshop styled themes for Gimp 2.8.18 and above.
+
+### Greeter
+- [LightDM Tiny Greeter](https://github.com/off-world/lightdm-tiny-greeter)
+  - [Config from Reddit](https://www.reddit.com/r/unixporn/comments/dy66ue/lightdmtinygreeter_tiny_material/)
+- [Ly](https://github.com/cylgom/ly) - a TUI display manager
+- [LightDM transparent/frosted theme](https://github.com/manilarome/lightdm-webkit2-theme-glorious)
+
+### GTK
+- [materia](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
+- [oomox](https://github.com/themix-project/oomox) - Graphical application for generating different color variations of a Arc, Materia and Oomox themes (GTK2, GTK3 and others), Archdroid, Gnome-Colors, Numix, Papirus, Suru++ icons, and terminal palette.
+- [Sweet](https://github.com/EliverLara/Sweet) - Light and dark colorful Gtk3.20+ theme
+
+### LaTeX
+- [Multi-project LaTeX forward/backward-search in NeoVim+Zathura](https://gitlab.com/vitorof/moontex.nvim/-/tree/master/lua/moontex/synctex)
+
+### Lockscreen
+- [Glitchlock](https://github.com/xero/glitchlock) - a glitch art themed randomized lockscreen for linux
+- [Mantablockscreen](https://github.com/reorr/mantablockscreen) - other i3lock-color wrapper that mantab
+
+### Polybar
+- [Gist](https://gist.github.com/unix121/c1621f90e50c0f8b077a6901d5f0b7e4)
+- [Polybar themes](https://github.com/adi1090x/polybar-themes) - A collection of polybar themes/configs with different styles, colors and variants
+
+### Rofi
+- [Askpass popup](https://github.com/sdushantha/dotfiles/blob/master/rofi/.config/rofi/themes/askpass.rasi)
+- [Custom applets and menus](https://github.com/adi1090x/rofi)
+- [dmenu-extended](https://github.com/MarkHedleyJones/dmenu-extended)
+- [Extensions](https://github.com/davatorium/rofi/wiki/User-scripts)
+- [i3 keybinding menu](https://gitlab.com/vahnrr/rofi-menus) - [source](https://www.reddit.com/r/unixporn/comments/g6mbfu/oc_was_tired_of_checking_the_config_file_when_i/)
+- [Menu with categories](https://github.com/NybuTG/Rofi-Menu-with-Categories)
+- [rofi-emoji](https://github.com/Mange/rofi-emoji)
+- [rofi-printers](https://github.com/raphaelfournier/rofi-printers) -  Small bash script to wrap printings aliases with rofi
+- [rofi-scripts](https://github.com/davatorium/rofi-scripts)
+- [web-recent-dmenu](https://github.com/larzeitlin/web-recent-dmenu)
+
+- [Custom scripts - add bookmarks to selections](https://stackoverflow.com/questions/57609950/rofi-custom-script-on-combi-mode)
+
+### Spotify
+- [spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
+
+### Steam
+- [wal_steam](https://github.com/kotajacob/wal_steam) - A little script that themes the colours for Metro for steam from wal or wpg.
+
+### Telegram
+- [telegram-palette-gen](https://github.com/matgua/telegram-palette-gen) - A bash script that generates themes for Telegram based on an arbitrary 16-colors palette or by sourcing the colors generated by pywal/wal.
+
+### Terminal
+- [3mux](https://github.com/aaronjanse/3mux) - terminal multiplexer with i3-like keybindings
+- [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [urxvt-resize-font](https://github.com/simmel/urxvt-resize-font)
+- [urxvt-font-size](https://github.com/majutsushi/urxvt-font-size)
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+
+### Visual Studio
+- [Translucent Visual Studio](https://www.reddit.com/r/unixporn/comments/a8tsk8/i3gaps_a_little_bit_of_pink_and_blue/)
+- [VSCode wal](https://github.com/bluedrack/vscode-wal) - A color theme for visual studio code
+
+## Dotfiles
+- [dotfiles.github.com](https://dotfiles.github.io/)
+- [dotfiles (aesophor)](https://github.com/aesophor/dotfiles) - Dark, minimal, nord theme, monospace, Gentoo
+- [dotfiles (aswathkk)](https://github.com/aswathkk/dotfiles) - nord, retro rainbow accents, Mac and Linux
+- [dotfiles (elenapan)](https://github.com/elenapan/dotfiles) - nord, kind of material, colorful/neon accents
+- [dotfiles (fcamillieri22)](https://github.com/fcamilleri22/dots) - install scripts for i3 Manjaro
+- [dotfiles (JLErvin)](https://github.com/JLErvin/dotfiles) - dark, nord, minimal, berrywm
+- [dotfiles (manilarome)](https://github.com/manilarome/the-glorious-dotfiles) - transparent/glassy, rounded corners, material
+- [dotfiles (mohabaks)](https://github.com/mohabaks/dotfiles) - dark, solar, minimal
+- [dotfiles (ntcarlson)](https://github.com/ntcarlson/dotfiles) - nord, minimal, blue and green muted accents
+- [dotfiles (SolitaryThinker)](https://github.com/SolitaryThinker/dotfiles)
+- [Nikos Vasilakis]()
+  - [Scripts](https://github.com/nvasilakis/.scripts)
+  - [Dotfiles](https://github.com/nvasilakis/.dotrc)
+
+
+## Reddit Posts
+- [ASCII Art](https://www.reddit.com/r/unixporn/comments/9kp95e/_/)
+- [Calvin and Hobbes lockscreen](https://www.reddit.com/r/unixporn/comments/jyzw5k/i3lock_love_linux_for_letting_me_have_this_lock/)
+- [Colorful/Translucent Zathura](https://www.reddit.com/r/unixporn/comments/e71a9z/i3_cozy_cs/)
+- [Composition notebooks](https://www.reddit.com/r/unixporn/comments/obbsu9/fvwm_composition_notebooks/)
+- [Dark & Flat on Windows](https://www.reddit.com/r/desktops/comments/a9en1y/new_windows_10_rice/)
+- [Flat with coool startpage and bar](https://www.reddit.com/r/unixporn/comments/kc88ti/bspwm_nothing_too_fancy_but_it_works_for_me/)
+- [Glitch Lockscreen](https://www.reddit.com/r/unixporn/comments/996208/glitchlock_an_i3lock_powered_glitch_art/)
+- [Hacker UI](https://www.reddit.com/r/unixporn/comments/9ysbx7/oc_a_little_project_that_ive_been_working_on/)
+- [LaTeX workflow](https://www.reddit.com/r/unixporn/comments/fiiz7v/aquayabai_my_note_taking_setup_touchbar_rice/)
+- [Lemonbar Script](https://www.reddit.com/r/unixporn/comments/98jmxq/_/)
+- [MacOS-esque](https://www.reddit.com/r/desktops/comments/9vztm6/my_surface_pro_3_running_linux_os_x_aka_ubuntu/)
+- [Mantablockscreen](https://www.reddit.com/r/unixporn/comments/9vqxfk/i3lock_lockscreen_with_cool_fancy_effects_but/)
+- [Minimal, rounded, flat with transparency](https://www.reddit.com/r/unixporn/comments/k56rxh/awesome_pog/)
+- [mkdir/cd shortcut](https://www.reddit.com/r/unixporn/comments/9vw77m/_/)
+- [Monochrome gray with outline](https://www.reddit.com/r/unixporn/comments/kcbi05/bspwm_to_here_knows_when/)
+- [Natural Scrolling](https://www.reddit.com/r/unixporn/comments/991j5x/_/)
+- [Notetaking Workflow](https://www.reddit.com/r/unixporn/comments/d233pf/bspwm_starting_off_the_semester_with_a_reworked/)
+- [Polybar](https://www.reddit.com/r/unixporn/comments/9i1xih/i3gaps_switched_to_manjaro_from_ubuntu/)
+- [Rice on Raspberry Pi Connected to Phone](https://www.reddit.com/r/unixporn/comments/e8pvps/raspberrypi_unixmidgetporn/)
+- [Two WMs](https://www.reddit.com/r/unixporn/comments/9zhbps/desktop_finalised_a_complete_student_workflow_on/)
+- [Using rofi as a game launcher](https://www.reddit.com/r/unixporn/comments/p5b0qv/i3_misusing_rofi_as_a_game_launcher/)
+- [.vimrc](https://www.reddit.com/r/unixporn/comments/98pynx/_/)
+- [Vim like VSCode/Atom](https://www.reddit.com/r/vimporn/comments/9v6y3q/who_said_your_terminal_textbased_interface_cant)
+- [Vim tabs](https://www.reddit.com/r/unixporn/comments/97w46o/_/)
+- [Volume/Brightness popup](https://www.reddit.com/r/unixporn/comments/991qad/_/)
+
+## Setup
+- [iPad Pro for Programming](https://jann.is/ipad-pro-for-programming/)
+
+## Tools
+- [popcatindicator](https://github.com/bastakka/popcatindicator) - Volume indicator with Cat pop theme for GNOME
+- [pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes on the fly.
+- [ScreenKey](https://github.com/wavexx/screenkey) - Display keystrokes
+- [wallablur](https://github.com/Di-KaZ/WallaBlur) - Blur your background on window open
+- [wallblur](https://github.com/mut-ex/wallblur) - wallblur is a simple shell script that creates a faux blurred background effect for your linux desktop without needing a compositor.
+- [wmtm](https://github.com/indicozy/wmtm/) - WM-agnostic Theme Manager written in Bash, preconfigured for SwayWM
+
+## Windows
+- [Customizable Windows Shell](https://www.reddit.com/r/desktops/comments/936ib3/any_customizable_alternative_windows_shells/)
+- [Windows Customization](https://windowscustomization.com/)
+- [Running i3 on Windows](https://www.brianketelsen.com/i3-windows/)
+- [How to change the UI of Windows 10?](https://www.reddit.com/r/desktops/comments/92bcwg/i_want_to_change_the_ui_of_windows_10_advice/)
+- [wsl-dotfiles](https://github.com/Xyene/wsl-dotfiles) - My dotfiles for running an i3-based environment within the Windows Subsystem for Linux (WSL).
+
+### Edit WSL files from Windows with SFTP
+
+I just hit on a way to edit files in WSL that in retrospect seems really obvious. I'm wondering if there's some reason it's a bad idea or if alternately people know about it.
+
+The problem I'm trying to solve is editing files in the Linux partition of WSL from Windows. Ie: editing $HOME/.bashrc with Notepad. We're told to absolutely never change the Linux filesystem files from Windows because things can break.
+
+So my solution is to [run the sshd daemon](https://gist.github.com/dentechy/de2be62b55cfd234681921d5a8b6be11) under WSL. Then use that to connect to my Linux files via [SFTP](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol) running as a Windows app. I'm using [SFTP Net Drive](https://www.sftpnetdrive.com) to mount my Linux files as a Windows drive, there are other options. Then use any Windows program to edit the files in that drive, like Notepad or Sublime Text.
+
+All the actual file I/O is happening under WSL thanks to SFTP, so it should be safe. SFTP imposes some overhead but it's not a big deal for just editing files. One nice thing is SFTP seems to do a pretty good job at preserving Unix file permissions even when editing from Windows.
+
+### Pretty Reddit Inspos
+- [Material](https://www.reddit.com/r/desktops/comments/92s1x1/almost_finishing_my_desktop/)
+- [Another Material](https://www.reddit.com/r/desktops/comments/90qfdg/im_not_for_names/)
+- [Dark and Flat](https://www.reddit.com/r/desktops/comments/8wlq1v/my_dark_windows_10/)
+- [Gnome-clone](https://www.reddit.com/r/desktops/comments/92i74v/windows_gnomelike_windows_desktop/)
+- [i3 gaps on WSL](https://www.reddit.com/r/unixporn/comments/6qo2ti/i3gaps_on_wsl_a_number_of_themes_using_wpgtk/)
