@@ -1,6 +1,4 @@
-# phd
-
-## Directories
+# Phd
 
 ## Files
 - [Get-Advisor.](Get-Advisor.pdf)

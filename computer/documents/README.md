@@ -1,6 +1,4 @@
-# documents
-
-## Directories
+# Documents
 
 ## Files
 - [airport-extreme-setup-guide.](airport-extreme-setup-guide.pdf)

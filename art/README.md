@@ -1,6 +1,4 @@
-# art
-
-## Directories
+# Art
 
 ## Files
 - [art](art.md)

@@ -1,4 +1,4 @@
-# operating-systems
+# Operating-systems
 
 ## Directories
 - [linux-diagrams](linux-diagrams/)

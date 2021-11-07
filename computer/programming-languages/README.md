@@ -1,6 +1,4 @@
-# programming-languages
-
-## Directories
+# Programming-languages
 
 ## Files
 - [assembly](assembly.md)

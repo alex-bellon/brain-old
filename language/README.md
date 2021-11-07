@@ -1,6 +1,4 @@
-# language
-
-## Directories
+# Language
 
 ## Files
 - [dutch](dutch.md)

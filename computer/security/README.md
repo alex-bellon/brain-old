@@ -1,6 +1,4 @@
-# security
-
-## Directories
+# Security
 
 ## Files
 - [binary-exploitation](binary-exploitation.md)

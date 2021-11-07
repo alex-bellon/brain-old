@@ -1,6 +1,4 @@
-# media
-
-## Directories
+# Media
 
 ## Files
 - [blogs](blogs.md)

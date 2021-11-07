@@ -1,6 +1,4 @@
-# trivia
-
-## Directories
+# Trivia
 
 ## Files
 - [README](README.md)

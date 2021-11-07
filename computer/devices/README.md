@@ -1,4 +1,4 @@
-# devices
+# Devices
 
 ## Directories
 - [raspberry-pi](raspberry-pi/)

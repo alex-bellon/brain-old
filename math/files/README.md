@@ -1,6 +1,4 @@
-# files
-
-## Directories
+# Files
 
 ## Files
 - [ecc.](ecc.pdf)

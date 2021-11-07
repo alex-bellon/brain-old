@@ -1,6 +1,4 @@
-# science
-
-## Directories
+# Science
 
 ## Files
 - [chemistry](chemistry.md)

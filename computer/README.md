@@ -1,4 +1,4 @@
-# computer
+# Computer
 
 ## Directories
 - [devices](devices/)

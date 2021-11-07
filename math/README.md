@@ -1,4 +1,4 @@
-# math
+# Math
 
 ## Directories
 - [files](files/)

@@ -1,6 +1,4 @@
-# programs
-
-## Directories
+# Programs
 
 ## Files
 - [atom](atom.md)

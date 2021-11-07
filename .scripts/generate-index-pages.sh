@@ -3,9 +3,14 @@ for dir in $(find .. -maxdepth 2 -type d -not -path '*/\.*' | sed '1d'); do
         cd $dir
         
         dirname=${PWD##*/}
+        dirname=${dirname^}
         printf "# %s" "$dirname" > README.md
-       
-        printf "\n\n## Directories" >> README.md
+      
+        subdirs=$(find . -maxdepth 1 -type d -not -path '*/\.*' | sed '1d')
+
+        if [ "$subdirs" ]; then 
+            printf "\n\n## Directories" >> README.md
+        fi
 
         for subdir in */; do
             subdirname=${subdir::-1}
