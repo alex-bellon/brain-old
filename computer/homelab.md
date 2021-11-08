@@ -93,6 +93,7 @@
 ### Miscellaneous
 - Ansible
 - [Doppler](https://github.com/EnKrypt/Doppler) - A zero configuration remote monitoring tool designed to be better than nothing
+- [firefly-iii](https://github.com/firefly-iii/firefly-iii) - "Firefly III" is a (self-hosted) manager for your personal finances. It can help you keep track of your expenses and income, so you can spend less and save more. 
 - [Glances](https://github.com/nicolargo/glances) - a cross-platform monitoring tool which aims to present a large amount of monitoring information through a curses or Web based interface.
 - [Heimdall](https://github.com/linuxserver/Heimdall) - a dashboard for all your web applications.
 - [OctoFarm](https://github.com/OctoFarm/OctoFarm) - OctoFarm is an web server and client combination for unifying multiple instances of Octoprint. You can manage and monitor as many instances as you want from a single interface giving you full control over your 3D printer farm.

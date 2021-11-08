@@ -8,7 +8,9 @@
 - [How to lock Linux console session](https://blog.sleeplessbeastie.eu/2015/06/01/how-to-lock-linux-console-session/)
 - [How to use your terminal + shell to enhance your productivity?](https://dev.to/mamyn0va/cli-love-inside-4lgl)
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+- [The Split Personalities of Shell Usage](https://murex.rocks/docs/blog/split_personalities.html)
 - [What unfamous CLI/TUI you regularly use for coding/development?](https://www.reddit.com/r/commandline/comments/i0oo3d/what_unfamous_clitui_you_regularly_use_for/)
+- [which is not POSIX](https://hynek.me/til/which-not-posix/)
 - [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - List of some common tasks that you might be tempted to do in GUI.
 - [Your terminal can be much, much more productive](https://medium.com/@ivanaugustobd/your-terminal-can-be-much-much-more-productive-5256424658e8)
 
@@ -133,9 +135,10 @@
   - [wget options](https://zget-opts-gen.now.sh/)
 
 ## Websites
-- [ExplainShell](https://explainshell.com/) - Website to explain every argument and flag in a shell command
 - [cmdchallenge](https://cmdchallenge.com/) - Practice terminal commands and tools
+- [ExplainShell](https://explainshell.com/) - Website to explain every argument and flag in a shell command
 - [Linux Journey](https://linuxjourney.com/) - Learn Linux commands
+- [ShellCheck – shell script analysis tool](https://www.shellcheck.net/#) - can check if a shell script is POSIX compliant 1
 
 ## Threads
 - [FAQ about displaying stuff in a terminal](https://twitter.com/thingskatedid/status/1316074032379248640)

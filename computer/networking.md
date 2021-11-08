@@ -10,6 +10,10 @@
 - [Start your own ISP](https://startyourownisp.com/)
 - [YSK about firewalls and how they work](https://www.reddit.com/r/networking/comments/ffblzq/ysk_about_firewalls_and_how_they_work/)
 
+## Classes
+- [CS249i: The Modern Internet](https://cs249i.stanford.edu/)
+- [CSE 291 - Internet Infrastructure](https://cseweb.ucsd.edu/~schulman/class/cse291_f21/)
+
 ## Hardware
 
 - **Router**: Connects subnets and translates addresses

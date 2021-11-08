@@ -5,6 +5,7 @@
 ## Articles
 - [How I use Obsidian to manage my goals, tasks, notes, and software development knowledge base](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base)
 - [Linking Your Thinking](https://www.linkingyourthinking.com/) - The Linking Your Thinking Workshop is a 6-week community driven learning experience. It will teach, train, and support you in building a custom knowledge management system you can trust.
+- [PhD workflow: Obsidian, Zettelkasten, Zotero, Pandoc, and more](https://www.reddit.com/r/ObsidianMD/comments/m5ou2h/phd_workflow_obsidian_zettelkasten_zotero_pandoc/)
 
 ## Other Peoples'
 - [Second Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens / Second Brains / Digital Gardens
@@ -12,7 +13,7 @@
 - [learn](https://github.com/gyuho/learn)
 - [meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - A list of knowledge repositories
 - [til](https://github.com/jbranchaud/til) - lots of technical/CS tips and tricks
-- https://info.stylee32.net/
+- [index](https://info.stylee32.net/)
 - [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes)
 
 ## Software

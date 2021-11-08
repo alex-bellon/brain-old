@@ -23,12 +23,12 @@
   - [Sliding square game in LaTeX](https://tex.stackexchange.com/questions/444917/the-tikz-game-package-a-tex-sx-project/444956#444956)
   - [Dissertation Slide Puzzle - Pastebin.com](https://pastebin.com/xrUHbMnY)
 
-## Inline code
+## Notes
 - Use the `listings` LaTeX package to input inline code
   - Use `\begin{lstlisting}` and `\end{lstlisting}` and put code in between or,
   - Use `\lstinputlisting[language=foo]{bar.foo}` to input it directly from the file `bar.foo`
-
-_[Source](https://www.overleaf.com/learn/latex/code_listing)_
+	- _[Source](https://www.overleaf.com/learn/latex/code_listing)_
+- `\i` and `\j` produce i and j without dots, e.g. so you can put symbols on top without the dot interfering.
 
 ## Installing on Arch
 ```

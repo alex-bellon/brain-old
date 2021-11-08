@@ -14,3 +14,4 @@
 - [Mathematical Analysis of a good Assassins](https://zarvox.org/assassins/math.html)
 - [No Hello](https://nohello.net/)
 - [Paddy Not Patty](https://www.paddynotpatty.com/)
+- [NEXT Distro](https://nextdistro.org/)

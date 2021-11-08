@@ -1,6 +1,7 @@
 # Blogs and Zines
 
 ## General
+- [Alex Forencich](https://www.alexforencich.com/wiki/en/start)
 - [Barking Up The Wrong Tree](https://www.bakadesuyo.com/search/)
 - [bollu](https://bollu.github.io) - Blogs about math and computer stuff
   - [2019 Recap](https://bollu.github.io/#stuff-i-learnt-in-2019)

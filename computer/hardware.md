@@ -1,6 +1,4 @@
-# Hardware
-
-## A/V
+Useful parts [Alex Forencich]
 - [AverMedia](https://www.avermedia.com/event/product_select/) - capture cards
 
 ## Articles
@@ -12,9 +10,11 @@
 ## Devices
 - [Portable Oscilloscope and Multimeter](https://www.amazon.com/Hantek-Oscilloscope-Generator-Multimeter-Multifunction/dp/B07MQJR6W9)
 - [Proxmark3](https://hackerwarehouse.com/product/proxmark3-rdv4-kit/)
+- [Pycom - Five Network Development Board for IoT](https://pycom.io/product/fipy/)
 
 ## Misc
 - [3.3v pin mod for Hard Drives](https://imgur.com/a/BFdmB)
+- 
 
 ## Projects
 - [3D Printed CNC Mill](https://www.reddit.com/r/3Dprinting/comments/ju3tq4/i_designed_and_3d_printed_my_own_cnc_router/)
@@ -31,3 +31,5 @@
 - [MAC Address Search](https://mac.lc/)
 - [Open On Chip Debugger](https://openocd.org/)
 - [Signal Identification Wiki](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
+- [Useful parts](https://www.alexforencich.com/wiki/en/electronics/useful-parts)
+- [JTAG Reverse Engineering](https://www.alexforencich.com/wiki/en/reverse-engineering/jtag/start)

@@ -202,6 +202,23 @@ Portion oats into a bowl, top with chopped walnuts and almond butter and enjoy!
 >
 > - Let fully cool and dig in!
 
+
+### Chunky Oat Bars
+
+> 140 g protein oats
+> a medium banana
+> 2 medium egg whites
+> half a cup of almond milk
+> teaspoon of baking powder
+> 
+> 1) Mash the banana, add egg whites, milk of choice and baking powder. 
+> 2) Mix until uniform. 
+> 3) Add in oats (I used instant protein oats from Mark's and Spencers, UK, for the added protein) 
+> 4) Add nuts/choco chips if you wish (optional) 
+> 5) Mix and bake at 350F/175 deg C for 15 minutes.
+
+[Source](https://www.reddit.com/r/Volumeeating/comments/qmu7yz/chunky_oat_bars/)
+
 ### Copycat Cosmic Brownies
 ```
 - 142g melted butter

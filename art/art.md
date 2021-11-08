@@ -11,3 +11,6 @@
 - [The Studio](https://www.thestudio.com/)
 - [Printful](https://www.printful.com/)
 - [Sticker App](https://stickerapp.com/custom-stickers/#!)
+
+## Reddit
+- [Dorm DIY screenprinting setup](https://www.reddit.com/r/SCREENPRINTING/comments/mkqgpa/dorm_room_diy_studio/)

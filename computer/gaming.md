@@ -3,6 +3,7 @@
 ## Emulation
 - [DS Icon Creator](https://sixdigitcode.github.io/DS-Icon-Shortcut-Creator/)
 - Use [Syncthing](https://syncthing.net/) to sync saves/memory cards between devices
+- [CTGP Revolution](https://chadsoft.co.uk/media/) - Mario Kart Wii modding
 
 ### Android
 - [DIG Theme](https://digdroid.com/forums/discussion/107/alekful-nx)
