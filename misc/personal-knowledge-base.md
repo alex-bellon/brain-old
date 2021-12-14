@@ -4,7 +4,9 @@
 
 ## Articles
 - [How I use Obsidian to manage my goals, tasks, notes, and software development knowledge base](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base)
+- [How I use source notes, lit notes, and evergreen notes, with workflow and examples](https://www.reddit.com/r/Zettelkasten/comments/lg4s8h/how_i_use_source_notes_lit_notes_and_evergreen/)
 - [Linking Your Thinking](https://www.linkingyourthinking.com/) - The Linking Your Thinking Workshop is a 6-week community driven learning experience. It will teach, train, and support you in building a custom knowledge management system you can trust.
+- [Obsidian and Zotero](https://www.reddit.com/r/ObsidianMD/comments/oplrzv/obsidian_and_zotero/)
 - [PhD workflow: Obsidian, Zettelkasten, Zotero, Pandoc, and more](https://www.reddit.com/r/ObsidianMD/comments/m5ou2h/phd_workflow_obsidian_zettelkasten_zotero_pandoc/)
 
 ## Other Peoples'

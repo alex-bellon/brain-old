@@ -9,6 +9,7 @@
 
 ## Articles
 - [Open source licensing for supervillains](https://offlinemark.com/2021/01/22/open-source-licensing-for-supervillains/)
+- [The Story Behind an Open Source Software Un-Maintenance | ploum.net](https://ploum.net/the-story-behind-an-open-source-software-un-maintenance/)
 - [When will open source care about accessibility](https://blindjournalist.wordpress.com/2020/09/27/when-will-open-source-care-about-accessibility/)
 
 ## Books
@@ -41,3 +42,7 @@
 
 ## Lists
 - [awesome alternatives](https://gitlab.com/linuxcafefederation/awesome-alternatives/-/blob/master/README.md)
+
+## Videos
+- [Linus Torvalds says GPLv3 violates everything that GPLv2 stood for](https://www.youtube.com/watch?v=PaKIZ7gJlRU&feature=youtu.be)
+  - [licensing - What exactly is Tivoization and why did Linus Torvalds not like it in GPLv3? - Open Source Stack Exchange](https://opensource.stackexchange.com/questions/7020/what-exactly-is-tivoization-and-why-did-linus-torvalds-not-like-it-in-gplv3/7021)

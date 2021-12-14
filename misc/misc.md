@@ -4,6 +4,7 @@
 - [CMU Puzzlehunt](https://puzzlehunt.club.cc.cmu.edu/)
 - [Columbia course files](http://www.columbia.edu/itc/)
 - [Does my site need HTTPS](https://doesmysiteneedhttps.com/)
+- [ELI5 Scientific Progress and Open Questions](https://docs.google.com/document/d/1WzvKBUPdUQpcpZSkQJfHE9SyRacaaVWPiOZPR9DkoKw/edit)
 - [FlowCV](https://flowcv.io/) - Really fancy resume builder with nice templates
 - [General knowledge norms: Updated and expanded from the Nelson and Narens](https://ehsankia.com/quiz/)
 - [Hours by fiveable](https://hours.zone/) - Online study group dashboard
@@ -12,6 +13,8 @@
 - [LEGO Instructions PDFs](https://www.lego.com/en-us/service/buildinginstructions/)
 - [Lemons Rally](https://24hoursoflemons.com/lemons-rally/)
 - [Mathematical Analysis of a good Assassins](https://zarvox.org/assassins/math.html)
+- [NEXT Distro](https://nextdistro.org/)
 - [No Hello](https://nohello.net/)
 - [Paddy Not Patty](https://www.paddynotpatty.com/)
-- [NEXT Distro](https://nextdistro.org/)
+- [/sys/doc Document archive](https://doc.cat-v.org/)
+- [Traffic Cameras UK](https://trafficcameras.uk/map/)

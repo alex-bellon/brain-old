@@ -3,9 +3,11 @@
 ## Articles
 - [Automating My Infrastructure with Ansible and Gitlab CI: Part 3 – SSH Keys and Dotfiles](https://webworxshop.com/automating-my-infrastructure-with-ansible-and-gitlab-ci-part-3-ssh-keys-and-dotfiles/?pk_campaign=reddit-selfhosted)
 - [Creating Your Own Git Server](https://gpanders.com/posts/creating-your-own-git-server/)
+- [Build a home "radar" (ADS-B receiver) with Flightaware/PiAware - Visualize the skies!](https://forums.serverbuilds.net/t/guide-build-a-home-radar-ads-b-receiver-with-flightaware-piaware-visualize-the-skies/5652)
 - [How I re-over-engineered my home network for privacy and security](https://ben.balter.com/2021/09/01/how-i-re-over-engineered-my-home-network/)
 - [How to backup your email](https://www.mrlim.com/2020/12/how-to-backup-your-email/)
 - [How to Homelab Series](https://dlford.io/tag/how-to-home-lab-series/)
+- [How to make a selfhostable service that plays nice](https://corn.codeberg.page/selfhostable.html)
 - [Learning NFS through server and client configuration](https://www.redhat.com/sysadmin/nfs-server-client)
 - [Pi-Hole in Docker](https://www.geeksforgeeks.org/create-your-own-secure-home-network-using-pi-hole-and-docker/)
 - [Proxmox VE](https://dlford.io/how-to-home-lab-part-1/)
@@ -50,6 +52,7 @@
 - [goeland](https://github.com/slurdge/goeland) - An alternative to RSS2Email written in golang with many filters
 - [Gollum](https://github.com/gollum/gollum) - Git based wiki
 - [Kiwix](https://wiki.kiwix.org/wiki/Software) - Offline Wikipedia
+- [linkding](https://github.com/sissbruecker/linkding) -  Self-hosted bookmark service
 - [Mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
 - [Paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
   - [Mobile app](https://github.com/bauerj/paperless_app) and [desktop app](https://github.com/thomasbrueggemann/paperless-desktop)
@@ -144,6 +147,7 @@
 ## Reddit
 - [Accessing home lab remotely with OpenVPN](https://www.reddit.com/r/homelab/comments/aydayg/accessing_home_lab_remotely_with_openvpn/)
 - [Actually self-hosted ngrok](https://www.reddit.com/r/selfhosted/comments/f5mvhr/actually_selfhosted_ngrok/)
+- [ADS-B receiver](https://www.reddit.com/r/homelab/comments/qp4ez9/almost_finished_with_my_outdoors_pi_based_adsb/)
 - [Automatic Library Management](https://www.reddit.com/r/DataHoarder/comments/9znmum/can_someone_who_uses_automatic_library_management/?utm_content=comments&utm_medium=user&utm_source=reddit)
 - [Automating PLEX for multiple users](https://www.reddit.com/r/homelab/comments/bbmpbu/forint_i_0ifriendslengthihey_can_i_use_your_plex/ekk35e7/?context=3)
 - [Best way to safely access your server from thousands of miles away](https://www.reddit.com/r/selfhosted/comments/efi49t/best_way_to_safely_access_your_server_from/)

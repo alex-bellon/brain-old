@@ -5,6 +5,7 @@
 - [A visual guide to SSH tunnels](https://robotmoon.com/ssh-tunnels//#)
 - [DNS over TLS vs. DNS over HTTPS](https://www.cloudflare.com/learning/dns/dns-over-tls/)
 - [Encrypted SNI](https://blog.cloudflare.com/encrypted-sni/)
+- [How to route all internet traffic through Tor?](https://askubuntu.com/questions/324685/how-to-route-all-internet-traffic-through-tor-the-onion-router)
 - [HTTP/3 Explained](https://http3-explained.haxx.se/en/)
 - [Learn with me: VLANs & pfSense](https://www.youtube.com/watch?v=0_unEBSxqGY)
 - [Start your own ISP](https://startyourownisp.com/)
@@ -171,6 +172,10 @@ Reverse DNS Lookup
 - [ptunnel](https://github.com/izderadicka/ptunnel) - tunnel connections through HTTPS proxy
 - [ptunnel-ng](https://github.com/lnslbrty/ptunnel-ng) - Tunnel TCP connections through ICMP
 - [SSL Configuration Generator](https://ssl-config.mozilla.org/)
+
+## Resources
+- [The IXP Database](https://ixpdb.euro-ix.net/en/)
+- [Internet Exchange Map](https://www.internetexchangemap.com/)
 
 ## VPN
 ### VPN Tunneling

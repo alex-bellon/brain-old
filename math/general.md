@@ -18,8 +18,8 @@
 - [ToyWiki](https://toywiki.xyz/) - Collection of math notes
 
 ## Books
-- [Math Fiction Books](http://kasmana.people.cofc.edu/MATHFICT/readinglists.php)
 - [Books that have problems requiring ingenuity but doesn’t require specific field knowledge](https://www.reddit.com/r/math/comments/hfkmuw/books_that_have_problems_requiring_ingenuity_but/)
+- [Math Fiction Books](http://kasmana.people.cofc.edu/MATHFICT/readinglists.php)
 
 ### Textbooks
 - [American Institute of Mathematics' approved list of open source textbooks](https://aimath.org/textbooks/approved-textbooks/)

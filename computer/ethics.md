@@ -11,24 +11,25 @@
 ## Blogs
 - [Algorithmic Fairness](https://algorithmicfairness.wordpress.com/)
 - [Algorithms for the People](http://algosforthepeople.org/) -  a blog that accompanies Brown University's CS 2950v which surveys, critiques and addresses the ways in which computer science & technology affect marginalized communities.
+- [Computing education research](https://faculty.washington.edu/ajko/cer)
 - [Computing for Social Good](https://raghavan.usc.edu/2021-spring-computing-for-social-good/)
+- [Dr. Safiya Noble: The Bias Embedded in Algorithms](https://blog.getpocket.com/2020/06/the-bias-embedded-in-algorithms/)
 - [Ethical Design Guide](https://ethicaldesign.guide/)
 - [Project Green Light](http://esc.umich.edu/project-green-light/)
 - [Responsible Problem Solving](https://responsibleproblemsolving.github.io/)
-- [Computing education research](https://faculty.washington.edu/ajko/cer)
-- [Dr. Safiya Noble: The Bias Embedded in Algorithms](https://blog.getpocket.com/2020/06/the-bias-embedded-in-algorithms/)
 
 ## Books
-- HashtagActivism
-- Race after Technology
-- Woke Gaming
 - Artificial Unintelligence
 - Automating Inequality
 - Programmed Inequality
 - Behind the Screen (Content Moderation)
 - Black Software
+- [Critically Conscious Computing](https://criticallyconsciouscomputing.org/#/) - ## Methods for Secondary Education
 - [Essential Books by Black Scholars on Tech, Science and Race](https://www.c2i2.ucla.edu/racial-justice-and-tech/)
+- HashtagActivism
 - [Mozilla's recommendations for books about inequality in tech](https://twitter.com/mozilla/status/1308542908291661824?s=20)
+- Race after Technology
+- Woke Gaming
 
 ## Papers
 - [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)

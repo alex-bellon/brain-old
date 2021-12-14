@@ -1509,6 +1509,32 @@ Slice off thin pieces of the roasted pineapples as well.
 To assemble and serve, place some pork on the tortillas, followed by a few pieces of pineapple, a sprinkle of onions, a pinch of cilantro, then a small spoonful of the salsa.
 ```
 
+## Tacos Al Pastor
+
+Marinade:
+
+    Soak 3 guajillo chiles (seeds & stem removed) and 2 arbol chiles in hot water for 10 minutes.
+
+    Drain the water and add to a blender, with 2 tbsp canned chipotles in adobo, 3 cloves garlic, 1 tablespoon apple cider vinegar, 2 tablespoons sugar/maple syrup, 1 cup water, 1 teaspoon salt, 1/4 tsp ground cinnamon, 1/4 tsp black pepper, 1/8 tsp ground clove, and 1 bay leaf.
+
+    Blend until smooth and pass through a medium-mesh strainer to remove inedible bits of chile skin/seeds.
+
+Al pastor:
+
+    1 8oz bag Butler soy curls (made from the whole soybean - you could maybe also use tempeh if you don't want to use soy curls).
+
+    Cover with water and let sit for 20 minutes.
+
+    Drain and press some of the water out.
+
+    Add the marinade to the soy curls and mix until everything is coated.
+
+    Cook in an air fryer at 400°F for ~10 minutes (until browned & crispy), and chop into smallish pieces.
+
+Serve on corn tortillas (preferably fresh-made) with grilled pineapple, grilled red onions, guacamole sauce, cilantro, and lime juice.
+
+[Source](https://www.reddit.com/r/PlantBasedDiet/comments/r0rx2t/al_pastor_tacos_wfpb/)
+
 ### Thai Lettuce Wraps
 ```
 Ingredients
