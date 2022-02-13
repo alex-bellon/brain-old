@@ -36,6 +36,9 @@
 ## Reddit
 - [Coolest etymology of a word](https://www.reddit.com/r/AskReddit/comments/9uehqs/etymologists_of_reddit_what_is_the_coolest_origin)
 
+## Tools
+- [LibreLingo](https://github.com/LibreLingo/LibreLingo) - open source Duolingo
+
 ## Words
 - Word for words that are opposites and differ by one letter
   - Chum/chump

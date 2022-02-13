@@ -5,6 +5,7 @@
 ## Articles
 - [How I use Obsidian to manage my goals, tasks, notes, and software development knowledge base](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base)
 - [How I use source notes, lit notes, and evergreen notes, with workflow and examples](https://www.reddit.com/r/Zettelkasten/comments/lg4s8h/how_i_use_source_notes_lit_notes_and_evergreen/)
+- [Knowledge management - Obsidian Forum](https://forum.obsidian.md/c/knowledge-management/6/l/top)
 - [Linking Your Thinking](https://www.linkingyourthinking.com/) - The Linking Your Thinking Workshop is a 6-week community driven learning experience. It will teach, train, and support you in building a custom knowledge management system you can trust.
 - [Obsidian and Zotero](https://www.reddit.com/r/ObsidianMD/comments/oplrzv/obsidian_and_zotero/)
 - [PhD workflow: Obsidian, Zettelkasten, Zotero, Pandoc, and more](https://www.reddit.com/r/ObsidianMD/comments/m5ou2h/phd_workflow_obsidian_zettelkasten_zotero_pandoc/)
@@ -29,6 +30,7 @@
 - [kb](https://github.com/gnebbia/kb) - A minimalist knowledge base manager
 - [logseq](https://github.com/logseq/logseq) - A local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base.
 - [memex](https://github.com/kormyen/memex) - Memex is a personal knowledge base. A bookmarks and notes tool to help with storage and overview. Read-only and 'sever-less' for easy sharing.
+- [Memory-Stack](https://github.com/memory-stack/memory-stack) - Memory stack is a developer oriented journaling social platform.
 - [nb](https://github.com/xwmx/nb) - CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.
 - [notemarks](https://github.com/notemarks/notemarks) -  A git based labeling app to manage notes, documents, and bookmarks.
 - [obsidian-minimal](https://github.com/kepano/obsidian-minimal) -  Meticulously designed to make Obsidian feel native on desktop, mobile and tablet. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings. 

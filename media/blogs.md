@@ -10,6 +10,7 @@
 - [Emory Dunn](https://emorydunn.com/)
 - [Enze "Alex" Liu](https://alexliu0809.github.io/blog/#/) - Email security
 - [Ironholds](https://ironholds.org/archive/) - Tech, DEI
+- [Jake McCrary](https://jakemccrary.com/) - Tech, climbing and reading1
 - [Mackenzie Morgan](http://mackenzie.morgan.name/)
 - [Matthew Spong](https://mspong.org/) - transcribing old books to LaTeX
 - [Solene](https://dataswamp.org/~solene/index.html) - My name is Solène Rapenne. I like learning and sharing experiences about IT stuff. Hobbies: '(BSD OpenBSD h+ Lisp cmdline gaming internet-stuff Crossbow).
