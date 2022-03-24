@@ -1,5 +1,8 @@
 # PS Vita
 
+## Mods
+- [5000mAh battery mod](https://www.reddit.com/r/VitaPiracy/comments/qm1100/all_black_matte_back_cover_quad_speaker_5000mah/)
+
 ## Resources
 - [How to import images](https://www.reddit.com/r/VitaPiracy/comments/f01sf3/how_to_add_in_my_own_images_to_use_as_backgrounds/)
 - [List of Android games portable to Vita](https://android.rinnegatamante.it/)
@@ -13,7 +16,7 @@
 - [PSP2-Battery-Fixer](https://github.com/SKGleba/PSP2-batteryFixer) - A small utility that fixes most of PSVita's battery-related problems.
 - [PSVita UDCD USB Video Class plugin](https://github.com/xerpi/vita-udcd-uvc) - This is a kernel plugin that lets you stream your PSVita screen to your computer via USB.
   - [If you install a USB camera app on Android, you can plug in your PSVita via OTG and use the tablet as a giant monitor](https://www.reddit.com/r/VitaPiracy/comments/j02q9n/just_sharing_my_new_setup/)!
-- [QuickMenuReborn](https://github.com/Ibrahim778/QuickMenuReborn) - Library for developers to easily add their own widgets, to the vita's Quick Menu. 
+- [QuickMenuReborn](https://github.com/Ibrahim778/QuickMenuReborn) - Library for developers to easily add their own widgets, to the vita's Quick Menu.
 
 ## Notes
 

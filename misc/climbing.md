@@ -4,6 +4,9 @@
 - [Grips and climbing holds through hallway](https://www.reddit.com/r/UNBGBBIIVCHIDCTIICBG/comments/kx8m2c/how_to_use_a_stud_finder/)
 - [Hanging a hangboard on a doorway pull up bar](https://jakemccrary.com/blog/2020/04/26/hanging-a-hangboard-using-a-doorway-pull-up-bar/)
 
+## Bouldering Spots
+- [Santee](https://www.mountainproject.com/area/106116317/culp-valley)
+
 ## Shoes
 - [La Sportiva Taratula](https://www.backcountry.com/la-sportiva-tarantula-frixion-rs-climbing-shoe)
 - [Scarpa Helix](https://www.rei.com/product/897409/scarpa-helix-climbing-shoes-womens)

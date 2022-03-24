@@ -1,4 +1,5 @@
 # Privacy
+- [The problem with SMS-2FA isn't sim swapping, that's just icing on the top of the failure cake. The problem is that it literally doesn't solve the problem it's supposed to solve. It's phishable, and doesn't make password reuse safe.](https://twitter.com/taviso/status/1504593776567746563?s=20&t=7TkwduW4t74YZrLnBZfE2A)
 
 ## Articles
 - [Anti-Doxing Guide for Activists Facing Attacks](https://medium.com/@EqualityLabs/anti-doxing-guide-for-activists-facing-attacks-from-the-alt-right-ec6c290f543c)
