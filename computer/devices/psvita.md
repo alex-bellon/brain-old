@@ -17,6 +17,7 @@
 - [PSVita UDCD USB Video Class plugin](https://github.com/xerpi/vita-udcd-uvc) - This is a kernel plugin that lets you stream your PSVita screen to your computer via USB.
   - [If you install a USB camera app on Android, you can plug in your PSVita via OTG and use the tablet as a giant monitor](https://www.reddit.com/r/VitaPiracy/comments/j02q9n/just_sharing_my_new_setup/)!
 - [QuickMenuReborn](https://github.com/Ibrahim778/QuickMenuReborn) - Library for developers to easily add their own widgets, to the vita's Quick Menu.
+- [Xash3D](https://github.com/fgsfdsfgs/vitaXash3D)
 
 ## Notes
 
