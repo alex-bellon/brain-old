@@ -27,6 +27,7 @@
 ## Projects
 - [Bitwise](https://github.com/pervognsen/bitwise) - Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
 - [Build Your Own X](https://github.com/danistefanovic/build-your-own-x) - Build your own (insert technology here)
+- [Destroy All Software](https://www.destroyallsoftware.com/screencasts) - We build six fundamental programming tools from scratch in about thirty minutes each. Each focuses on understanding the core behavior of the tool, rather than the esoteric details and legacy concerns of real-world implementations.
 - [Project Based Learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
 
 ### Networking

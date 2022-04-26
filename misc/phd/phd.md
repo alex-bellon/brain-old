@@ -34,6 +34,7 @@
 
 ## Pre-PhD
 - [For potential PhD students](https://math.stanford.edu/~vakil/potentialstudents.html)
+- [Computer Science Open Data](https://jeffhuang.com/computer-science-open-data/)
 
 ## Advice (general)
 - [10 easy was to fail a PhD](http://matt.might.net/articles/ways-to-fail-a-phd/)

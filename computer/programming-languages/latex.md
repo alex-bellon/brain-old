@@ -1,6 +1,10 @@
 # LaTeX
 
+## Articles
+- [Real-time LaTeX Using (Neo)Vim](https://ejmastnak.github.io/tutorials/vim-latex/intro.html)
+
 ## Tools & Resources
+- [bibtex-autocomplete](https://github.com/dlesbre/bibtex-autocomplete) - Python package to autocomplete bibtex bibliographies
 - [Detexify](http://detexify.kirelabs.org/classify.html) - draw a LaTeX symbol and get the corresponding command
 - [latex-snippets](https://github.com/gillescastel/latex-snippets) - Vim + LaTeX snippets setup
 - [latex-templates](https://github.com/jleightcap/LaTeX-Templates) - Personal LaTeX templates.

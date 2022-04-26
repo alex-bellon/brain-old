@@ -3,6 +3,7 @@
 
 ## Articles
 - [Anti-Doxing Guide for Activists Facing Attacks](https://medium.com/@EqualityLabs/anti-doxing-guide-for-activists-facing-attacks-from-the-alt-right-ec6c290f543c)
+- [ContraChrome](https://contrachrome.com/)
 - [Double Blind Passwords](https://kaizoku.hashnode.dev/double-blind-passwords-aka-horcruxing)
 - [Privacy matters even if "you have nothing to hide"](https://write.privacytools.io/freddy/why-privacy-matters-even-if-you-have-nothing-to-hide)
 - [You don't need SMS-2FA](http://blog.cmpxchg8b.com/2020/07/you-dont-need-sms-2fa.html?m=1)
