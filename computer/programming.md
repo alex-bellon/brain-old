@@ -35,4 +35,5 @@
 - [uGit](https://www.leshenko.net/p/ugit/#) - DIY Git in Python
 
 ## Websites
+- [Design Patterns](https://refactoring.guru/design-patterns)
 - [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
