@@ -1,5 +1,8 @@
 # C
 
+- [Append to a char array](https://stackoverflow.com/questions/34055713/how-to-add-a-char-int-to-an-char-array-in-c)
+
+## Libraries
 - [liboqs](https://github.com/open-quantum-safe/liboqs) - C library for quantum-safe cryptography.
 
 ## Books

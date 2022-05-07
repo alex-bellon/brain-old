@@ -5,6 +5,8 @@
   - [Sync with Google Drive](https://www.reddit.com/r/ereader/comments/g2hrts/onyx_and_realtime_syncing_on_google_drive/) - Autosync for Google Drive
   - [Best stylus](https://www.samsung.com/us/mobile/mobile-accessories/tablets/tab-s6-lite-s-pen-oxford-gray-ej-pp610bjeguj/)
 - [Open Book Project](https://github.com/joeycastillo/The-Open-Book) - Open source e-reader
+- [PineBook](https://pine64.com/product/pinenote-developer-edition/)
+- TCL Nxtpaper
 
 ## Kindle
 - [koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
