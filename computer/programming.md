@@ -23,6 +23,7 @@
 
 ## Practice
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) -  A complete computer science study plan to become a software engineer.
+- [TLA+](https://lamport.azurewebsites.net/video/videos.html)
 
 ## Projects
 - [Bitwise](https://github.com/pervognsen/bitwise) - Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
