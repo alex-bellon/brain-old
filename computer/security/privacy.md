@@ -27,6 +27,7 @@
 - [Awesome Tor](https://github.com/ajvb/awesome-tor) - A list of awesome Tor related projects, articles, papers, etc
 - [Online OpSec](https://github.com/devbret/online-opsec) - Threat models and tools for staying safe, private and informed while Online, used by the average person.
 - [The New Oil](https://thenewoil.xyz/)
+- [Papers and book that shaped my understanding of privacy](https://haojian.github.io/mdwiki.html#!hci_privacy.md)
 
 ## Websites
 - [Online Privacy: How to Get OFf the Radar With Ease](https://maxdesalle.com/privacy-how-to-get-off-the-radar-with-ease/)

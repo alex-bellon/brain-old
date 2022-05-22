@@ -33,6 +33,7 @@
   - Use `\lstinputlisting[language=foo]{bar.foo}` to input it directly from the file `bar.foo`
 	- _[Source](https://www.overleaf.com/learn/latex/code_listing)_
 - `\i` and `\j` produce i and j without dots, e.g. so you can put symbols on top without the dot interfering.
+- [Edit margins in resume class](https://tex.stackexchange.com/questions/2778/edit-margins-in-res-cls-how-to-pass-through-correct-value-for-margin)
 
 ## Installing on Arch
 ```
