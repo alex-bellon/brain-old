@@ -35,6 +35,9 @@
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.github.io/thgtoa/guide.html)
   - [Repo](https://github.com/AnonymousPlanet/thgtoa)
 
+### Opt Out
+- [Spectrum](https://www.spectrum.com/policies/your-privacy-rights-opt-out)
+
 ### EFF
 - [EFF Austin](https://effaustin.org/)
 - [Security Education Companion](https://sec.eff.org/)

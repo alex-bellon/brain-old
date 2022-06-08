@@ -17,6 +17,7 @@
 - SICP
 - [Soft Skills: The Software Developer's Life Manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/)
 - The Art of Computer Programming - Knuth
+- [The Dao of Functional Programming](https://raw.githubusercontent.com/BartoszMilewski/Publications/master/TheDaoOfFP/DaoFP.pdf)
 - [The Mythical Man-Month: Essays on Software Engineering](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/)
 - [The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052/)
 - [Think Like a Programmer: An Introduction to Creative Problem Solving](https://www.amazon.com/Think-Like-Programmer-Introduction-Creative/dp/1593274246/)

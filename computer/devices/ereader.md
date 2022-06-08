@@ -7,6 +7,7 @@
 - [Open Book Project](https://github.com/joeycastillo/The-Open-Book) - Open source e-reader
 - [PineBook](https://pine64.com/product/pinenote-developer-edition/)
 - TCL Nxtpaper
+- [InkPalm 5](https://www.aliexpress.com/item/3256803864941192.html)
 
 ## Kindle
 - [koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
