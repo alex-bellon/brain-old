@@ -38,6 +38,7 @@
 
 ## Tools
 - [LibreLingo](https://github.com/LibreLingo/LibreLingo) - open source Duolingo
+- [Power Thesaurus](https://www.powerthesaurus.org/)
 
 ## Words
 - Word for words that are opposites and differ by one letter
