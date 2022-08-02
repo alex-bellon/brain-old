@@ -12,6 +12,7 @@
 - [Syncing GitLab and GitHub Repos](https://everythingshouldbevirtual.com/git/syncing-gitlab-and-github-repos/)
 
 ## General
+- [Git Annex](https://git-annex.branchable.com/)
 - [Git Internals](https://github.com/pluralsight/git-internals-pdf/releases)
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 - [GitHub Learning Lab](https://lab.github.com/)
