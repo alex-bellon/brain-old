@@ -31,6 +31,11 @@
 - Race after Technology
 - Woke Gaming
 
+## Examples 
+
+### Examples where computing hurt people
+- [Patriot Missile Software Problem](https://web.archive.org/web/20151121063711/http://sydney.edu.au/engineering/it/~alum/patriot_bug.html) - due to floating point errors
+
 ## Papers
 - [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
 
